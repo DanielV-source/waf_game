@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1918520241
+    locked: 0
+  - name: Shadow
+    uniqueID: 787567795
+    locked: 0
+  - name: Enemy
+    uniqueID: 1450937841
+    locked: 0
+  - name: Player
+    uniqueID: 1909976023
+    locked: 0
+  - name: Stars
+    uniqueID: 1327456109
+    locked: 0
+  - name: Menu
+    uniqueID: 3502382151
+    locked: 0
+  - name: MagicSphere
+    uniqueID: 1993293505
+    locked: 0
+  - name: MagicPosition
+    uniqueID: 4221032735
+    locked: 0
+  - name: UI
+    uniqueID: 2125751153
+    locked: 0
+  - name: PauseMenu
+    uniqueID: 1262235605
+    locked: 0
+  - name: Sliders
+    uniqueID: 2660459475
+    locked: 0

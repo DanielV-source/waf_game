@@ -1,13 +1,13 @@
 # Walk & Fight Game - [MUEI - APM]
-This is a simple game for Android made in Unity, where you need to avoid magic balls thrown by a goblin and use your magic wisely to slow down the attacks and throw your ultimate at the right moment. Be careful, as highlighted magic balls deal double damage. Have fun!
+This is a simple game of memorization and mental agility for Android made in Unity, where you need to avoid magic balls thrown by a goblin and use your magic wisely to slow down the attacks and throw your ultimate at the right moment. Be careful, as highlighted magic balls deal double damage. Have fun!"
  
 * Author: Daniel Vicente Ramos
 
 ## Implemented Sensors
-* Microphone: Blow into your microphone to slow down the magic balls.
-* Camera: Use the camera to see through the game and avoid obstacles while walking.
-* Gyroscope: Move your device to control your player and avoid the magic balls.
-* Accelerometer: Shake your mobile when you have enough magic to throw your ultimate ability.
+* **Microphone**: Blow into your microphone to slow down the magic balls.
+* **Camera**: Use the camera to see through the game and avoid obstacles while walking.
+* **Gyroscope**: Move your device to control your player and avoid the magic balls.
+* **Accelerometer**: Shake your mobile when you have enough magic to throw your ultimate ability.
 
 #### IMPORTANT: This game does not work independently, it needs to be compiled as "game.aar" and added to this project https://github.com/DanielV-source/waf in the "app/libs" folder.
 

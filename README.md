@@ -1,5 +1,5 @@
 # Walk & Fight Game - [MUEI - APM]
-This is a simple game of memorization and mental agility for Android made in Unity, where you need to avoid magic balls thrown by a goblin and use your magic wisely to slow down the attacks and throw your ultimate at the right moment. Be careful, as highlighted magic balls deal double damage. Have fun!"
+This is a simple game of memorization and mental agility for Android made in Unity, where you need to avoid magic balls thrown by a goblin and use your magic wisely to slow down the attacks and throw your ultimate at the right moment. Be careful, as highlighted magic balls deal double damage. Have fun!
  
 * Author: Daniel Vicente Ramos
 
